@@ -7,11 +7,10 @@
     android:layout_height="match_parent"
     tools:context=".Locations">
 
-
     <ListView
         android:id="@+id/listview_locations"
         android:layout_width="match_parent"
-        android:textColor="#E0D5D4"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:textColor="@android:color/white" />
 
 </RelativeLayout>
